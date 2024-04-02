@@ -6,7 +6,7 @@ I'm a passionate Software Developer 🚀 with a strong interest in web developme
 ---
 ● A good problem solving<br>
 ● Proficient in HTML, CSS, and JavaScript<br>
-● Proficient with modern web development frameworks such as React<br>
+● Proficient with modern web development frameworks such as React,Angular<br>
 ● Familiar with backend tecnologies 
 
 🚀 My Projects
