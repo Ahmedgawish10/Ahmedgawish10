@@ -15,7 +15,7 @@ Here are some of the projects I've worked on:<br>
 ● <a href="https://github.com/Ahmedgawish10/Portfolio-React" target="_blank" rel="noreferrer">Portfolio-React</a>:
 Create a Stunning Portfolio Website with Rractjs, Swiperjs and other libraries.<br>
 ● <a href="https://github.com/Ahmedgawish10/graduateproject" target="_blank" rel="noreferrer">Graduation-Project</a>:
- An e-commerce website that enables users to browse and purchase our Product(Blood Blucose Monitor).
+ An e-commerce website that enables users to browse and purchase our gradutae product(Blood Blucose Monitor).
 <br>
 ● <a href="https://github.com/Ahmedgawish10/ecommerce-pharmacy4" target="_blank" rel="noreferrer">ReactJS-Redux-Ecommerce</a>:
  An e-commerce website that enables users to browse and purchase and purchase products online.
