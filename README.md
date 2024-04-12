@@ -21,7 +21,7 @@ Create a Stunning Portfolio Website with Rractjs, Swiperjs and other libraries.<
  An e-commerce website that enables users to browse and purchase and purchase products online.
 <br>
 ● <a href="https://github.com/Ahmedgawish10/iti-ecommerce" target="_blank" rel="noreferrer">Graduation-Project-ITI</a>:
- Pizza e-commerce graduation-project at ITI summer training.
+ Pizza e-commerce graduation project (summer training) at ITI.
 
 📫 Contact Me
 ---
