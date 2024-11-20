@@ -2,14 +2,14 @@
 
 I'm a passionate Software Developer 🚀 with a strong interest in web development as Front-end Developer. I'm currently learning on a Software Engineer scholarship at ITI, where I'm gaining valuable skills and knowledge in open source application development and web development.
 
-🚀 My Skills
+🚀 Skills
 ---
 ● A good problem solving<br>
 ● Proficient in HTML, CSS, and JavaScript<br>
 ● Proficient with modern web development frameworks such as ReactJS,NextJS,Angular<br>
 ● Familiar with backend tecnologies such as PHP, MY SQL, Laravel
 
-🚀 My Projects
+🚀 Projects
 ---
 Here are some of the projects I've worked on:<br>
 ● <a href="https://github.com/Ahmedgawish10/Dashboard-ABrand" target="_blank" rel="noreferrer">Dashboard-ABrand</a>:
