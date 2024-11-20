@@ -2,6 +2,8 @@
 
 I'm a passionate Software Developer 🚀 with a strong interest in web development as Front-end Developer. I'm currently learning on a Software Engineer scholarship at ITI, where I'm gaining valuable skills and knowledge in open source application development and web development.
 
+I'm a passionate Software Developer 🚀 with a strong interest in web development as Front-end Developer. I'm currently learning on a Software Engineer scholarship at ITI, where I'm gaining valuable skills and knowledge in open source track web development. 
+
 🚀 Skills
 ---
 ● A good problem solving<br>
