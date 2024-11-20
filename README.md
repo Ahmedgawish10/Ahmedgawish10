@@ -5,8 +5,10 @@ I'm a passionate Software Developer 🚀 with a strong interest in web developme
 🚀 Skills
 ---
 ● A good problem solving<br>
-● Proficient in HTML, CSS, and JavaScript<br>
+● Proficient in HTML, CSS, TailwindCss, and JavaScript<br>
 ● Proficient with modern web development frameworks such as ReactJS,NextJS,Angular<br>
+● Familiar with using Strapi as a CMS for content management and collections APIs.<br>
+● Worked with Firebase for authentication, real-time databases, and cloud services.<br>
 ● Familiar with backend tecnologies such as PHP, MY SQL, Laravel
 
 🚀 Projects
