@@ -27,7 +27,7 @@ Create a website for travel agency (nextjs).<br>
  An e-commerce website that enables users to browse and purchase and purchase products online.
 <br>
 ● <a href="https://github.com/Ahmedgawish10/iti-ecommerce" target="_blank" rel="noreferrer">Graduation-Project-ITI</a>:
- Pizza e-commerce graduation project (summer training) at ITI.
+ Pizza e-commerce graduation project (summer training) at ITI(2021).
 
 📫 Contact Me
 ---
