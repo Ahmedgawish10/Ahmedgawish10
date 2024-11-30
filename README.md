@@ -8,7 +8,7 @@
 ● Proficient in HTML, CSS, TailwindCss, and JavaScript<br>
 ● Proficient with modern web development frameworks such as ReactJS,NextJS,Angular<br>
 ● Familiar with using Strapi as a CMS for content management and collections APIs.<br>
-● Worked with Firebase for authentication, real-time databases, and cloud services.<br>
+● Experienced with Firebase for authentication, real-time databases, and cloud services.<br>
 ● Familiar with backend tecnologies such as PHP, MY SQL, Laravel
 
 🚀 Projects
