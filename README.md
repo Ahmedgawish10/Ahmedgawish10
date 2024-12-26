@@ -1,6 +1,6 @@
  <h3>👋 Hi, I'm Ahmed Gawish</h3>
 
-🚀 I'm a passionate Software Developer with a strong interest in web development as Front-end Developer. I'm currently learning on a Software Engineer scholarship at ITI, where I'm gaining valuable skills and knowledge in open source track web development. 
+🚀 I'm a Passionate Front-End Developer with over 2 years of experience specializing in building web applications using React and Next.js. I am passionate about delivering exceptional user experiences and have worked on various production-ready projects. Additionally, I am familiar with PHP and Laravel, having completed a full-stack PHP scholarship at ITI, where I gained valuable experience in Frontend and backend development. My goal is to stay on track with the latest advancements in web development.
 
 🚀 Skills
 ---
