@@ -1,6 +1,6 @@
  <h3>👋 Hi, I'm Ahmed Gawish</h3>
 
-🚀 I'm a Full-Stack Developer with a special focus on Front-End Development with over 2 years of experience specializing in building web applications using React and Next.js. I’m passionate about delivering exceptional user experiences and have worked on several production-ready projects. Additionally, I have experience with PHP and Laravel, having completed a full-stack PHP scholarship at ITI, where I gained valuable skills in both frontend and backend development. My goal is to stay at the forefront of web development trends and continuously improve my skills.
+🚀 I'm a Full-Stack Developer with a special focus on Front-End Development with over 3 years of experience specializing in building web applications using React and Next.js. I’m passionate about delivering exceptional user experiences and have worked on several production-ready projects. Additionally, I have experience with PHP and Laravel, having completed a full-stack PHP scholarship at ITI, where I gained valuable skills in both frontend and backend development. My goal is to stay at the forefront of web development trends and continuously improve my skills.
 
 🚀 Skills
 ---
